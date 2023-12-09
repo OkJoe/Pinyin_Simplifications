@@ -10,6 +10,7 @@
 声母被分为以下两类
 * E类声母：b、p、m、f、d、t、n、l、g、k、h、zh、ch、sh、r、z、c、s、w；
 * I类声母：j、q、x、y、yu。
+
 其中，我们对一些声母进行以下代替
 * zh > ž，c > č，s > š；
 * yu > ü，在输入法中用v代替。
@@ -24,6 +25,7 @@
 * 韵母：a、ai、an、ang、ao、e、ei、en、eng、i、ing、iu、ou、ong、u、un、(e)r；
 * 在介音i后的韵母：i、i-a、i-an、i-ang、i-ao、i-e、in、ing、i-ong、i-u、i-un(ün)；
 * 语辞ê、o，在需要与e、o区分时，分别记为ê、ô。
+
 对韵母进行以下替代
 * 韵尾ng > ŋ；
 * （可选）在d、t、l后ian > en；

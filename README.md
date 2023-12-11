@@ -43,7 +43,7 @@
 由此，简化后的拼音中用到以下的音
 * 声母bㄅ、pㄆ、mㄇ(miㆬ)、fㄈ、dㄉ、tㄊ、nㄋ、lㄌ/ㆹli、gㄍ、kㄎ、hㄏ、jㄐ、qㄑ、xㄒ、žㄓ、čㄔ、šㄕ、rㄖ、zㄗ、cㄘ、sㄙ、yㄧ、wㄨ、üㄩ；
 * 介音iㄧ、uㄨ、üㄩ；
-* 韵母aㄚ、aiㄞ、anㄢ、aŋㄤ、aoㄠ、eㄜ(ueㄛ/ieㄝ)、eiㄟ、enㄣ、eŋㄥ、eoㄧㄠ、iㄧ、inㄧㄣ、iŋㄧㄥ、ioㄧㄡ、oㄡ、oŋㆲ、uㄨ、unㄨㄣ，其中在a、e、i、o、u以外增设ai、an、aŋ、ao、ue、ei、n、ŋ、iŋ、oŋ有助于提高输入效率；
+* 韵母aㄚ、aiㄞ、anㄢ、aŋㄤ、aoㄠ、eㄜ(ueㄛ/ieㄝ)、eiㄟ、enㄣ、eŋㄥ、eoㄧㄠ、iㄧ、inㄧㄣ、iŋㄧㄥ、ioㄧㄡ、oㄡ、oŋㆲ、uㄨ、unㄨㄣ，其中在a、e、i、o、u以外增设ai、an、aŋ、ao、ie、ue、ei、n、ŋ、iŋ、oŋ有助于提高输入效率；
 * 儿化音er/rㄦ。
 
 ## 样例
